@@ -3,4 +3,4 @@
 
 let multiply = num1 * num2
 
-let random = Math.floor(Math.random()) + 1
+let random = Math.floor(Math.random()) + 1;
